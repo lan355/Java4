@@ -1,0 +1,6 @@
+"Side 1:14.0\nSide 2:9.0\nSide 3:13.0\nAngle1:77.0\nAngle2:39.0\nAngle3:65.0\nPerimeter:36.0\nSquare:56.92099788303083"
+"\nТакой треугольник не существует \nSide1:4.0\nSide2:5.0\nSide3:3.0"
+"\nТакой треугольник не существует \nSide1:5.0\nSide2:7.0\nSide3:12.0"
+"\nТакой треугольник не существует \nSide1:5.0\nSide2:7.0\nSide3:12.0"
+"Side 1:3.0\nSide 2:3.0\nSide 3:1.0\nAngle1:80.0\nAngle2:80.0\nAngle3:19.0\nHeight:2.0\nPerimeter:7.0\nSquare:1.0"
+"\nТакой треугольник не существует \nSide1:2.0\nSide2:1.0\nSide3:5.0"
